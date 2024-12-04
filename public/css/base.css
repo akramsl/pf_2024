@@ -1,0 +1,15 @@
+header {
+    font-family: 'Poppins', sans-serif; 
+}
+
+.btn-pf {
+    border-radius: 10px;
+    background-color: #555B61;
+    border-style: none;
+    color: #FF6584;
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #6C63FF;
+}
